@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "id": "13939b1d-7a55-462e-9431-b7584f589647",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "$2b$10$r8E2LC2HQ1lliFdTUj1dYOIBnk32m4T7Wh3lYJgiyMacgRr73pD2y"
+    },
+    {
+      "id": "cf119821-7619-49f2-91f4-a0cbb4ddfde7",
+      "name": "admin",
+      "email": "admin@example.com",
+      "password": "$2b$10$0EJYMn1tqOsnWbCXY1Vo7O7efLQZwqphnXcvt/G4Td1Hadn1FYGsC"
+    }
+  ],
   "contacts": [
     {
       "id": 1,
@@ -27,6 +41,16 @@
       "tags": [
         "Работа"
       ]
+    },
+    {
+      "fullName": "Антон Сидоров",
+      "phone": "5555555555",
+      "email": "anton@example.com",
+      "tags": [
+        "Семья",
+        "Работа"
+      ],
+      "id": 4
     }
   ]
 }
