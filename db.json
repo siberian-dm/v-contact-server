@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "fullName": "Иван Иванов",
+      "phoneNumber": "1234567890",
+      "email": "ivan@example.com",
+      "tags": [
+        "Семья",
+        "Работа"
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Мария Петрова",
+      "phoneNumber": "9876543210",
+      "email": "maria@example.com",
+      "tags": [
+        "Друзья"
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Алексей Сидоров",
+      "phoneNumber": "5555555555",
+      "email": "alex@example.com",
+      "tags": [
+        "Работа"
+      ]
+    }
+  ]
+}
